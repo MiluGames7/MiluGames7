@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MiluGames7
+- 👀 I'm a 12 y/o guy, who wanna be a programmer
+- 🌱 My first goal is learn Python.
+- 😁 Goodbye, and have a nice day! :)
